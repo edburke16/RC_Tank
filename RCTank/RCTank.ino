@@ -12,7 +12,7 @@
 #define PS2_SEL        4  //16
 #define PS2_CLK        7  //17
 
-#define echoPin 9 // Echo Pin
+#define echoPin 2 // Echo Pin
 #define trigPin 8 // Trigger Pin
 #define LEDPin 13 // Onboard LED
 
