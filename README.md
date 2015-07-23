@@ -7,4 +7,4 @@ Right Motor = Right Analog Stick
 Fire Gun = X (Cross)
 Vibrate Control (for test) = Triangle 
 
-For information, see 
+For information, see http://www.bluestampengineering.com/portfolio-view/ed-b/
